@@ -96,6 +96,7 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-code-block": "19.0.0"
+    "@ckeditor/ckeditor5-code-block": "19.0.0",
+    "rxjs-compat": "6.5.5"
   }
 }
